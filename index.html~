@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	</head>
+	<body>
+		<table class="table table-hover">
+			<tr><th>Nombre</th><th>Apellidos</th></tr>
+			<tr><td>Jose</td><td>Torres</td></tr>
+			<tr><td>Eduardo</td><td>Mares</td></tr>
+		</table>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	</body>
+</html>
